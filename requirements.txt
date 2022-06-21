@@ -1,7 +1,7 @@
 et-xmlfile==1.0.1
 imageio==2.2.0
 lxml==4.1.0
-numpy==1.14.6
+numpy==1.22.0
 opencv-contrib-python==4.1.0.25
 opencv-python==4.1.0.25
 scipy==1.2.1
